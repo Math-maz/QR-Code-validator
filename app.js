@@ -1,5 +1,6 @@
 const validar = require("./validar");
-validar();
+validar(); //função de validação 
+
 
 
 
