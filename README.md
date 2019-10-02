@@ -1,5 +1,6 @@
 # QR-Code-validator
-Supporters:
-[Felipe Cunha]: Github: feliperucunha
-Node application to validate Easy Ticket's QR-Code
 
+Supporters:
+
+1. [Felipe Cunha](https://github.com/feliperucunha)
+2. [Matheus Araujo](https://github.com/Math-maz)
