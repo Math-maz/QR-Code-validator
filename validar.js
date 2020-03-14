@@ -1,3 +1,4 @@
+
 const readInput = require("./readInput.js");
 const axios = require("axios");
 function validar() {
@@ -22,5 +23,6 @@ function validar() {
       );
       validar();
     });
+
 }
 module.exports = validar;
